@@ -20,11 +20,13 @@
 
 ## Other Open-Source Projects
 
+- [McLarenP1](https://mclaren-p1-showcase-beta.vercel.app/) Its my first project where i learned about motion graphics and slide animations.
 
-- [TurkishAirlines.com](https://my-portfolio-gabriel3-dbe7.vercel.app/), its my biggest project. made with Next.js, React.js and TailwindCSS. A thought into a plan hten to a design.
+- [TurkishAirlines.com](https://my-portfolio-gabriel3-dbe7.vercel.app/) its my biggest project. made with Next.js, React.js and TailwindCSS. A thought into a plan hten to a design.
 
 - [Portfolio](https://desinger-portfolio.vercel.app/) A modern and visually striking portfolio site for designers, featuring smooth animations, a gothic aesthetic, and a unique spray graffiti-inspired design.
 
+- [Virello](https://virello-smoky.vercel.app/) My first ever web design of a random idea.
 
 
 
