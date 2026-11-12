@@ -11,7 +11,7 @@
 
 | [my portfolio](https://my-portfolio-gabriel3-dbe7.vercel.app/) | [kiwimi.co](https://www.kiwimi.co/) | [Turkishairlines.com](https://turkish-airlines-mocha.vercel.app/) |
 | --- | --- | --- |
-| <img width="600" height="320" alt="image" src="https://github.com/user-attachments/assets/30dd6cad-afeb-4d94-ae2b-618b29dee28e" /> | <img width="600" height="320" alt="image" src="https://github.com/user-attachments/assets/ce9f4dcf-242c-4afa-b6a5-49f634aca3fc" /> | <img width="600" height="320" alt="image" src="https://github.com/user-attachments/assets/5db96adc-3971-461f-9054-a0ed31676461" /> |
+| <img width="600" height="320" alt="image" src="https://github.com/user-attachments/assets/c7577a69-a13e-41e0-ab90-cdfd49960a15" /> | <img width="600" height="320" alt="image" src="https://github.com/user-attachments/assets/ce9f4dcf-242c-4afa-b6a5-49f634aca3fc" /> | <img width="600" height="320" alt="image" src="https://github.com/user-attachments/assets/5db96adc-3971-461f-9054-a0ed31676461" /> |
 | Links: [website](https://www.dknalp.dev) ・ [github repo](https://github.com/parsherr/modern-portfolio) | Links: [website](https://www.kiwimi.co/) | Links: [website](https://skill-icons-taupe.vercel.app/) ・ [github repo](https://github.com/dknalp/skill-icons) |
 
 <!--typin animal <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
