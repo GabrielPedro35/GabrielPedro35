@@ -3,7 +3,7 @@
 <div align="center">
   <h1 align="center"> Hey, I'm Gabriel </h1>
 <p>
- Full stack software engineer. I build web apps, desktop apps, API services, automations and AI systems. Started out in web design so I care about how things look too.
+ Web Designer. I turned a thought into designs. I make UI/UX, web designs.
 </p>
 
   Contact on [gabrielemrecevik@gmail.com](mailto:gabrielemrecevik@gmail.com) 
